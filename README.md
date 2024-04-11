@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm **Thanpat Nawang**
+
+You can call me "Meen" 🌟
 
 <!--
 **FeiZGe/FeiZGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
