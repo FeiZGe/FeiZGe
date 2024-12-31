@@ -1,19 +1,20 @@
-### Hi there 👋
-I'm **Thanpat Nawang**
+# Hi there , I'm Meen, a Com-sci student. 👋
 
-You can call me "Meen" 🌟
+🎓 currently studying
 
-<!--
-**FeiZGe/FeiZGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/react-%233178C6?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/next-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android_studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
