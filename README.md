@@ -19,3 +19,5 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white&color=%237F52FF)
+![Jetpack Compose](https://img.shields.io/badge/jetpack_compose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&color=%234285F4)
